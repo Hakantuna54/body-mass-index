@@ -7,7 +7,7 @@ def vki(boy, kilo):
 
     Parameters
     ----------
-    boy : float value: 1.78 with cm
+    boy : float value: 1.78 with m
     kilo : int value: 78 kg
 
     Returns
