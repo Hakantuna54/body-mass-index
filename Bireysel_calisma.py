@@ -18,8 +18,7 @@ def vki(boy, kilo):
     kilo = kilo
     output = kilo / boy
     A.append(output)
-    return output
-
+   
 
 vki(1.90, 86)
 
